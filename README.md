@@ -1,3 +1,4 @@
-Med CLINIC
+
 # MedCLINIC
 # MedCLINIC
+Creación del proyecto integrador
